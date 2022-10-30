@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Data/Database.txt</file>
+        <file>Data/final_bus_liteN.json</file>
+        <file>Data/full_stations_kkj3.json</file>
+        <file>Data/lite_bus_wanha.json</file>
+        <file>Image/aircratf.png</file>
+        <file>Image/arrow.png</file>
+        <file>Image/bullet.png</file>
+        <file>Image/bus.png</file>
+        <file>Image/dark_bg.jpg</file>
+        <file>Image/dark_Flaze.jpg</file>
+        <file>Image/kartta_iso_1095x592.png</file>
+        <file>Image/kartta_pieni_500x500.png</file>
+        <file>Image/kartta_pieni_500x500WAN.png</file>
+        <file>Image/StartMenu.png</file>
+        <file>Image/Title_name.png</file>
+        <file>Image/UFO.png</file>
+        <file>Image/UFO_chasing_bg.jpg</file>
+        <file>Media/ingame.mp3</file>
+        <file>Media/intro.mp3</file>
+        <file>Media/shooting_shound.mp3</file>
+        <file>Image/arrow30x30.png</file>
+        <file>Image/Pin_stop.png</file>
+    </qresource>
+</RCC>
